@@ -9,7 +9,7 @@ import java.util.Optional;
 
 @Service
 public class UsuarioService {
-
+    /*
     @Autowired
     UsuarioRepository usuarioRepository;
 
@@ -32,4 +32,5 @@ public class UsuarioService {
     public void eliminarUsuario(Long id) {
         usuarioRepository.deleteById(id);
     }
+     */
 }

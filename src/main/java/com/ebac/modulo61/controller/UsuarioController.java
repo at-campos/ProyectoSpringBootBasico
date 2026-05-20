@@ -19,7 +19,7 @@ import java.util.Optional;
 
 @RestController
 public class UsuarioController {
-
+/*
     @Autowired
     UsuarioService usuarioService;
 
@@ -70,5 +70,5 @@ public class UsuarioController {
         usuarioService.eliminarUsuario(id);
 
         return ResponseEntity.noContent().build();
-    }
+    }*/
 }
